@@ -1,6 +1,6 @@
 // Write your code in this file!
-let scuberGreetingForFeet;
-
-if (scuberGreetingForFeet() <= 400) {
-  scuberGreetingForFeet = "This one is on me!";
+function scuberGreetingForFeet (feet) {
+  if (scuberGreetingForFeet feet <= 400) {
+    return "This one is on me!";
+}
 }
